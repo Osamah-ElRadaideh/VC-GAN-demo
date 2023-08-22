@@ -1,3 +1,5 @@
+# VC-GAN-demo.github.io
+
 Audio samples from my master's thesis titled "Generative Adversarial Networks for Speech generation",  Code will be available if given permission by the university 
 
 
