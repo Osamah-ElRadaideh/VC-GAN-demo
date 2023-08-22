@@ -1,8 +1,6 @@
 Audio samples from my master's thesis titled "Generative Adversarial Networks for Speech generation".
 <div>
 
-      
-
 
 <div>
       <a name="ss"><h2>mel BNFs</h2></a>
