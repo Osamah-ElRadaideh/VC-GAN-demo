@@ -44,6 +44,9 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
           <td><audio controls="" preload="none"><source src="vc/mel_ints_LibriTTS/sp_2979_2636.wav"></audio></td>
 </tr>
 
+
+
+
 <div>
       <a name="ss"><h2>huBERT PPGs</h2></a>
       <hr>
