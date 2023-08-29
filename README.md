@@ -44,7 +44,6 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </tbody>
       </table>
 </div>
-    </div>
 
 
 <div>
@@ -89,12 +88,11 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </tbody>
       </table>
 </div>
-    </div>
 
 
 
 <div>
-      <a name="ss"><h2>time-averaged-ints</h2></a>
+      <a name="ss"><h2>time-averaged-BNFs</h2></a>
       <hr>
       <table>
         <tbody>
@@ -135,7 +133,6 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </tbody>
       </table>
 </div>
-    </div>
 
 
 
