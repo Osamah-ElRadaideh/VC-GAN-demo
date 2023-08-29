@@ -1,5 +1,5 @@
 Audio samples from my master's thesis titled "Generative Adversarial Networks for Speech generation".
-<div>
+<div> all examples below are by speakers previously unseen by the model.
 
 
 <div>
