@@ -181,7 +181,7 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 
 
 <div>
-      <a name="ss"><h2>huBERT-BNFs</h2></a>
+      <a name="ss"><h2>time-averaged-PPGs</h2></a>
       <hr>
       <table>
         <tbody>
@@ -225,7 +225,7 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 
 
 <div>
-      <a name="ss"><h2>huBERT-BNFs</h2></a>
+      <a name="ss"><h2>huBERT-PPGs</h2></a>
       <hr>
       <table>
         <tbody>
