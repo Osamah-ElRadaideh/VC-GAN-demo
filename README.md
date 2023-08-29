@@ -135,6 +135,138 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </div>
 
 
+<div>
+      <a name="ss"><h2>mel-BNFs-ecapa-TDNN</h2></a>
+      <hr>
+      <table>
+        <tbody>
+        <tr>
+          <td nowrap width="160">example 1</td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_3858.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_3858_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_2426_3858.wav"></audio></td>
+            </tr>
+        <tr>
+          <td nowrap width="160">example 2</td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_3426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_3426_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_610_3426.wav"></audio></td>
+              </tr>
+                <tr>
+          <td nowrap width="160">example 3</td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_3017.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_3017_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_4062_3017.wav"></audio></td>
+                </tr>
+              <tr>
+               <td nowrap width="160">example 4</td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_2967.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_2967_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_1496_2967.wav"></audio></td>
+             </tr>
+             <tr> <td nowrap width="160">example 5</td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_49.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/ref_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_49_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/ecapa_ints/sp_1979_49.wav"></audio></td>
+</tr>
+</tbody>
+      </table>
+</div>
+
+
+
+<div>
+      <a name="ss"><h2>huBERT-BNFs</h2></a>
+      <hr>
+      <table>
+        <tbody>
+        <tr>
+          <td nowrap width="160">example 1</td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_3858.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_3858_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_2426_3858.wav"></audio></td>
+            </tr>
+        <tr>
+          <td nowrap width="160">example 2</td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_3426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_3426_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_610_3426.wav"></audio></td>
+              </tr>
+                <tr>
+          <td nowrap width="160">example 3</td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_3017.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_3017_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_4062_3017.wav"></audio></td>
+                </tr>
+              <tr>
+               <td nowrap width="160">example 4</td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_2967.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_2967_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_1496_2967.wav"></audio></td>
+             </tr>
+             <tr> <td nowrap width="160">example 5</td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_49.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/ref_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_49_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/averaged_PPGs/sp_1979_49.wav"></audio></td>
+</tr>
+</tbody>
+      </table>
+</div>
+
+
+<div>
+      <a name="ss"><h2>huBERT-BNFs</h2></a>
+      <hr>
+      <table>
+        <tbody>
+        <tr>
+          <td nowrap width="160">example 1</td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_3858.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_3858_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_2426_3858.wav"></audio></td>
+            </tr>
+        <tr>
+          <td nowrap width="160">example 2</td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_3426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_3426_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_610_3426.wav"></audio></td>
+              </tr>
+                <tr>
+          <td nowrap width="160">example 3</td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_3017.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_3017_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_4062_3017.wav"></audio></td>
+                </tr>
+              <tr>
+               <td nowrap width="160">example 4</td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_2967.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_2967_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_1496_2967.wav"></audio></td>
+             </tr>
+             <tr> <td nowrap width="160">example 5</td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_49.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/ref_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_49_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/huBERT_PPGs/sp_1979_49.wav"></audio></td>
+</tr>
+</tbody>
+      </table>
+</div>
+
 
 
 
