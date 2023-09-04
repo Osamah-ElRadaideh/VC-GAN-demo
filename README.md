@@ -179,7 +179,7 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </div>
 
   <div>
-      <a name="ss"><h2>mel-BNFs-ecapa-TDNN</h2></a>
+      <a name="ss"><h2>SCL-ints</h2></a>
       <hr>
       <table>
         <tbody>
