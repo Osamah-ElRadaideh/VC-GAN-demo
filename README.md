@@ -90,6 +90,51 @@ Audio samples from my master's thesis titled "Generative Adversarial Networks fo
 </div>
 
 
+<div>
+      <a name="ss"><h2>YourTTS</h2></a>
+      <hr>
+      <table>
+        <tbody>
+        <tr>
+          <td nowrap width="160">example 1</td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_3858.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_3858_2426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_2426_3858.wav"></audio></td>
+            </tr>
+        <tr>
+          <td nowrap width="160">example 2</td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_3426.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_3426_610.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_610_3426.wav"></audio></td>
+              </tr>
+                <tr>
+          <td nowrap width="160">example 3</td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_3017.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_3017_4062.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_4062_3017.wav"></audio></td>
+                </tr>
+              <tr>
+               <td nowrap width="160">example 4</td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_2967.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_2967_1496.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_1496_2967.wav"></audio></td>
+             </tr>
+             <tr> <td nowrap width="160">example 5</td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_49.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/ref_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_49_1979.wav"></audio></td>
+          <td><audio controls="" preload="none"><source src="vc/YourTTS/sp_1979_49.wav"></audio></td>
+</tr>
+</tbody>
+      </table>
+</div>
+
+
+
 
 <div>
       <a name="ss"><h2>time-averaged-BNFs</h2></a>
