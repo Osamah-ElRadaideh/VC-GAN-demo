@@ -1,5 +1,5 @@
-
-
+[Demo Link](https://osamah-elradaideh.github.io/VC-GAN-demo/)
+Audio demonstration of my master's thesis titled Generative adversarial networks for speech generation.
 <div>
       <a name="ss"><h2>mel-BNFs</h2></a>
       <hr>
